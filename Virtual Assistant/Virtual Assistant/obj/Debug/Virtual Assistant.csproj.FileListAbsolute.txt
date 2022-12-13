@@ -1,0 +1,79 @@
+C:\Diplom\Virtual Assistant\Virtual Assistant\bin\Debug\Virtual Assistant.exe.config
+C:\Diplom\Virtual Assistant\Virtual Assistant\bin\Debug\Virtual Assistant.exe
+C:\Diplom\Virtual Assistant\Virtual Assistant\bin\Debug\Virtual Assistant.pdb
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.csproj.AssemblyReference.cache
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual_Assistant.Properties.Resources.resources
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.csproj.GenerateResource.cache
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.csproj.CoreCompileInputs.cache
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.exe
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.pdb
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual_Assistant.About.resources
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual_Assistant.Main.resources
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual_Assistant.Note.resources
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual_Assistant.Task.resources
+C:\Diplom\Virtual Assistant\Virtual Assistant\bin\Debug\DB.mdf
+C:\Diplom\Virtual Assistant\Virtual Assistant\bin\Debug\DB_log.ldf
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.csproj.ResolveComReference.cache
+C:\Diplom\Virtual Assistant\Virtual Assistant\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.csproj.CopyComplete
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual_Assistant.Info.resources
+C:\Users\Admin\Desktop\Virtual Assistant\Virtual Assistant\bin\Debug\DB.mdf
+C:\Users\Admin\Desktop\Virtual Assistant\Virtual Assistant\bin\Debug\DB_log.ldf
+C:\Users\Admin\Desktop\Virtual Assistant\Virtual Assistant\bin\Debug\Virtual Assistant.exe.config
+C:\Users\Admin\Desktop\Virtual Assistant\Virtual Assistant\bin\Debug\Virtual Assistant.exe
+C:\Users\Admin\Desktop\Virtual Assistant\Virtual Assistant\bin\Debug\Virtual Assistant.pdb
+C:\Users\Admin\Desktop\Virtual Assistant\Virtual Assistant\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Admin\Desktop\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual_Assistant.About.resources
+C:\Users\Admin\Desktop\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual_Assistant.Info.resources
+C:\Users\Admin\Desktop\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual_Assistant.Main.resources
+C:\Users\Admin\Desktop\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual_Assistant.Note.resources
+C:\Users\Admin\Desktop\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual_Assistant.Properties.Resources.resources
+C:\Users\Admin\Desktop\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual_Assistant.Task.resources
+C:\Users\Admin\Desktop\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.csproj.CopyComplete
+C:\Users\Admin\Desktop\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.exe
+C:\Users\Admin\Desktop\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.pdb
+C:\Users\Admin\Desktop\портфолио\Virtual Assistant\Virtual Assistant\bin\Debug\DB.mdf
+C:\Users\Admin\Desktop\портфолио\Virtual Assistant\Virtual Assistant\bin\Debug\DB_log.ldf
+C:\Users\Admin\Desktop\портфолио\Virtual Assistant\Virtual Assistant\bin\Debug\Virtual Assistant.exe.config
+C:\Users\Admin\Desktop\портфолио\Virtual Assistant\Virtual Assistant\bin\Debug\Virtual Assistant.exe
+C:\Users\Admin\Desktop\портфолио\Virtual Assistant\Virtual Assistant\bin\Debug\Virtual Assistant.pdb
+C:\Users\Admin\Desktop\портфолио\Virtual Assistant\Virtual Assistant\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Admin\Desktop\портфолио\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\портфолио\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\портфолио\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\портфолио\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual_Assistant.About.resources
+C:\Users\Admin\Desktop\портфолио\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual_Assistant.Info.resources
+C:\Users\Admin\Desktop\портфолио\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual_Assistant.Main.resources
+C:\Users\Admin\Desktop\портфолио\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual_Assistant.Note.resources
+C:\Users\Admin\Desktop\портфолио\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual_Assistant.Properties.Resources.resources
+C:\Users\Admin\Desktop\портфолио\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual_Assistant.Task.resources
+C:\Users\Admin\Desktop\портфолио\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\портфолио\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\портфолио\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.csproj.CopyComplete
+C:\Users\Admin\Desktop\портфолио\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.exe
+C:\Users\Admin\Desktop\портфолио\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.pdb
+C:\Virtual Assistant\Virtual Assistant\bin\Debug\DB.mdf
+C:\Virtual Assistant\Virtual Assistant\bin\Debug\DB_log.ldf
+C:\Virtual Assistant\Virtual Assistant\bin\Debug\Virtual Assistant.exe.config
+C:\Virtual Assistant\Virtual Assistant\bin\Debug\Virtual Assistant.exe
+C:\Virtual Assistant\Virtual Assistant\bin\Debug\Virtual Assistant.pdb
+C:\Virtual Assistant\Virtual Assistant\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.csproj.AssemblyReference.cache
+C:\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.csproj.SuggestedBindingRedirects.cache
+C:\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.csproj.ResolveComReference.cache
+C:\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual_Assistant.About.resources
+C:\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual_Assistant.Info.resources
+C:\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual_Assistant.Main.resources
+C:\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual_Assistant.Note.resources
+C:\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual_Assistant.Properties.Resources.resources
+C:\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual_Assistant.Task.resources
+C:\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.csproj.GenerateResource.cache
+C:\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.csproj.CoreCompileInputs.cache
+C:\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.csproj.CopyComplete
+C:\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.exe
+C:\Virtual Assistant\Virtual Assistant\obj\Debug\Virtual Assistant.pdb

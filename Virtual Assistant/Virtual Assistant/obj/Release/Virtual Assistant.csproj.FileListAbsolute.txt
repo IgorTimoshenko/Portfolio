@@ -1,0 +1,19 @@
+C:\Diplom\Virtual Assistant\Virtual Assistant\bin\Release\DB.mdf
+C:\Diplom\Virtual Assistant\Virtual Assistant\bin\Release\DB_log.ldf
+C:\Diplom\Virtual Assistant\Virtual Assistant\bin\Release\Virtual Assistant.exe.config
+C:\Diplom\Virtual Assistant\Virtual Assistant\bin\Release\Virtual Assistant.exe
+C:\Diplom\Virtual Assistant\Virtual Assistant\bin\Release\Virtual Assistant.pdb
+C:\Diplom\Virtual Assistant\Virtual Assistant\bin\Release\Tulpep.NotificationWindow.dll
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Release\Virtual Assistant.csproj.AssemblyReference.cache
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Release\Virtual Assistant.csproj.ResolveComReference.cache
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Release\Virtual_Assistant.About.resources
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Release\Virtual_Assistant.Info.resources
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Release\Virtual_Assistant.Main.resources
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Release\Virtual_Assistant.Note.resources
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Release\Virtual_Assistant.Properties.Resources.resources
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Release\Virtual_Assistant.Task.resources
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Release\Virtual Assistant.csproj.GenerateResource.cache
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Release\Virtual Assistant.csproj.CoreCompileInputs.cache
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Release\Virtual Assistant.csproj.CopyComplete
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Release\Virtual Assistant.exe
+C:\Diplom\Virtual Assistant\Virtual Assistant\obj\Release\Virtual Assistant.pdb
